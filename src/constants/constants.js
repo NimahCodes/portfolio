@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Web Scrapping App',
-    description: 'A React Video Chat Application using WebRTC.',
+    description: 'Web-Scrapper is an app that enables scrapping of any website of needed information',
     image: '',
     tags: ['Python', 'OOP'],
     source: 'https://github.com/NimahCodes/WebScrapping-Data_Analysis-Data_Visualization',

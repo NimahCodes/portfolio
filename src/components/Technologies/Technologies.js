@@ -11,9 +11,8 @@ const Technologies = () => (
     <SectionDivider /><br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      These are the technologies I use for now: HTML 5 | CSS 3 | Docker |
-      Javascript ES6 | TypeScript | GitHub | Node.js | Express.js | APIs |
-      MongoDB | React | Postgres | SQL
+      These are the technologies I use for now: Python | Django | Django rest-framework | ReactJs | JavaScript | HTML | CSS | Postgres | SQlite | MySQL | Docker | GitHub | Heroku | Matlab | SPSS | PowerBI | 
+      
     </SectionText>
     <List>
       <ListItem>

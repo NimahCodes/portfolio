@@ -10,7 +10,7 @@ const Hero = (props) => {
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          <h6>Folakemi Nimah Umar (Software Engineer) ...</h6>
+          <h6>Folakemi Nimah Umar (Software Engineer) </h6>
           I write code to solve problems
         </SectionTitle>
         <SectionText>
